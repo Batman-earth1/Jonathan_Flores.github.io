@@ -3,7 +3,7 @@ layout: essay
 type: essay
 title: "jonathan Flore's experience with wods 1-3"
 # All dates must be YYYY-MM-DD format!
-date: 2024-30-01
+date: 2024-01-30
 published: true
 labels:
   - ITM 352 S24 Wods 1-3 essay
