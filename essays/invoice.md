@@ -2,7 +2,7 @@
 layout: essay
 type: essay
 title: "jonathan Flore's experience with Wod INVOICE"
-# All dates must be YYYY-MM-DD format!
+
 date: 2024-01-30
 published: true
 labels:
