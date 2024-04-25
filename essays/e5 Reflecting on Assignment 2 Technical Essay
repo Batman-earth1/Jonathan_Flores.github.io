@@ -1,1 +1,27 @@
+---
+layout: essay
+type: essay
+title: "E4 reflecting on Assignment 5 technical essay"
+# All dates must be YYYY-MM-DD format!
+date: 2024-04-24
+published: true
+labels:
+  - Managment Information Systems
+---
 
+What did you learn from this assignment?
+  -I learned from assignment 2, that what looks easy is hard and what seems hard is usually easy. It was hard to follow along with the in class labs as there was some confusion as to where exactly put some code . Setting up the html pages was easy but linking them to the server was hard. Aswell as learning, re-learning and pasting all the handling in the server. 
+Did you work with a partner? Assign an estimated percentage on the amount each team member contributed to the assignment (including yourself).
+  -No
+How did you get help when you needed it? What did you need help with?
+-I tried asking for help in the discord but ended up solving some issues before I got a response. I always needed help but figured I could try it out on my own at first. When its t-minus one day and it doesn't work is frustrating.
+How was developing this assignment different than assignment #1?
+- From faraway it doesnt seem like it shouldn't be hard. I understood what needed to be done this time but didn't know how to exactly and everytime I missed something or got something fixed another small problem would pop out. For example, when trying to start my server it would not work so I had to take an embassingly long time to figure it out and when I did get it working I would realize it was in the wrong folder or file and cding was working properly.
+Estimate the % of time you spent (a) thinking about how to do something, (b) writing code (but do not include testing, (c) testing and debugging 
+  (a)- thinking 110% my brain was fried on top of other classes, presentations, projects and assignments. 
+  (b)- 40% of time was working on code.
+  (c)-  80% writing but bottlenecks kept popping up so ended up debugging, waiting for answers, digging on forums and asking dffernt prompts but with same question to ai to maybe get a better answer.
+Describe what worked well with this project? What did not work well?
+  -What worked well was ai, it was a big help and comparing the proffessors repo wih ours. I got the idea from the prompt but lots of extra steps .
+If you could go back in time and do things differently, what would you do differently?
+  -I'd probably pay for chatgpt earlier or register for vs copilot ahead of time, as of this writing I am still waiting to get approved as a student so i could get copilot for free. I'd also ask for help from my peers earlier but everyone is struggling and 90% of people dont know either. In theory it shouldnt be that bad, becasue were just building atop assignment one but in practice its never as simple as it sounds.
