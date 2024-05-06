@@ -1,0 +1,105 @@
+---
+layout: essay
+type: essay
+title: "E7 Reflective Analysis of my ITM 352 Experience"
+# All dates must be YYYY-MM-DD format!
+date: 2024-05-03
+published: true
+labels:
+  - Managment Information Systems
+---
+
+Course Goals ITM 352 has the following goals:
+1   [A] Acquiring basic programming skills in an IT context
+[B]  Understanding why MIS people need basic programming skills and knowledge
+[C]  Gaining hands-on experience in developing software applications
+[D]  Experiencing first-hand MIS problems and solutions
+[E]`Experiencing and understanding first-hand project management, working in teams, software development issues
+[F]  Gaining confidence in addressing MIS problems
+For each of the above goals, explain what stands out in your class experience that indicates you have met that goal. You do not need to be comprehensive but do be specific. You should make each goal a sub-section.
+   
+[A]
+In regards to the first goal, I do feel as if I have aquired some form of basic programing skills , albiet rough and half the time I sometimes feel I dont know what I am doing, I think the struggle has in part forced me to seek help or in laymans terms RTFM, which is what I seem to read from people in the industry as a common experience and is reassuring to me.That even the most seasoned veterans make mistakes when coding.
+
+[B] 
+This course has made me realize that although MIS people need some basic programing skills and knowledge, alot of it is learning on the job, as for this course it is easy to grasp but hard to master, by itself I think is doable for most people but with other classes it can prove challenging. Already having a strong grasp on modern technology and how things work lends itself to perservering in learning these concepts. Using industry standards such as Github and vscode helps ground myself in strong foundations that are relevant and interesting.
+
+[C]
+I most definetly have gotten hands on experience in developing software appliactions, even if they are rough copies from websites such as W3 schools or mostly in the same vein as the examples provided in class. Learning how to start and stop a server aswell as see the changes I made in my websites have provided proof of concepts to how lots of websites I use function in the same way like amazon and ebay.
+
+[D]
+I think we have only scrathced the surface in terms of problems that every developer faces and their solutions . Whats interesting to me is that for every one problem, there are many solutions, which I think is pretty cool in terms of the advancment in coding and various languages. An example of this would  using loops for images instead of hard coding to get the same result. Indeed, if there is a faster and cleaner way to do things, then a developer will try to do that, and thakfully , ai also helps in the same way.
+
+[E] 
+Working in teams, project managment and software evelopment has been some key concepts that although I was hesitant to learn at first, I am glad to have experienced. With how the class is formatted and I  know most of some people don't usually speak up in class , people are generally willing to help and ask for help. In discord, may of my peers were encouraging and helpful when at times the proffessor was not always available. Its reasurring in a class to know that we are all learning together. I am glad to have attended some of the tutoring sessions aswell as for the guidance and helpfulness of the TA. One thing we all experienced as a class was the google cloud and the many issues it presented to us, evetually through trial and error I like to think we solved them.
+
+[F]  
+ I've gained confidence  from my peers and the internet and my sometimes trusty ai. Becoming better at project mangment has helped me become better at leanring the ins and outs of my pc aswell, my repo did not work at times but with some googling and reading github guides I am definetly more confident in my handling of programs  and files in my system. I am more confident in how I ask questions to get a fix for any problems I've had. With the advancement of AI this makes me more at ease  as another resource for learning programming, getting better at asking the right questions to get specific answers tailored to whatever I am doing.
+
+2    Course Elements and Personal Engagement
+[A]  What did you learn from creating a professional portfolio and using it in ITM 352?
+[B]  What did you gain from doing the WODs?
+[C]  Were the quizzes helpful in preparing you for the labs?
+[D]  What did you learn from doing the labs?
+[E]  What did you learn from doing the essays?
+[F]  What did you learn from doing Assignment 1 and Assignment 2?
+
+[A]  
+  What I learned from creating a professional portfolio and actually using it in this class would have to be being creative is as much a part of Mis as any other subject. I liked having a personal page showcasing my projects, socials and essays.
+[B] 
+  From the Wods I learned that its never as simple as it seems , and actually sometimes it is , but you usually dont know what you don't know until after some trial and error and deep research. The streams helped, though I really had to rewatch and slow it down for it to click sometimes and at other times it did not until the next class. I learned some simple fixes from asking in the discord and realized that they take up as much time as you give them for better or worse effort and completion of the task.
+[C]  
+  The quizess were indeed helpful in ppreperation for the labs, particularly the readings that were required  in order to do the quizes. They helped alot in breaking down concepts and displaying examples. W3 schools was a good help and when it came to class it was easier to digest and learn the material for sure.
+[D]  
+  From doing the labs I learned the intricacies of modules and the step by step building of them until getting a good example. The labs provided a way for me to familiarize the concepts for myself when the questions asked what it is I had just done. Although at times my laptop died with 5 minutes left in class I liked doing the labs and following along. 
+[E]
+  In doing the essays I learned to have to introspective on my habits as a novice coder  see what was working and what was not. It was intersting to read other peoples essays and see what workked for them . Not to mention it definetly helped provide some reassurence that I was not the only one stressing or frustrated with my understanding of some subjects.
+[F]  
+  I learned from Assignment 1 how to successfully use a loop to save time and space instead of hardcoding images on my store.html page. I also learned to link various files together so that the website would function as intended or at least provide the illusion of functionality. I learned especially how to use the debugg feature and then use that in conjuction with ai to fix parts of my code, over and over again. Once Assignment 1 was completed it was not easy making a copy for assignment 2 but eventually got it working as intended. From trying to complete assignment 2 I learned that having successfull server code is inredibly confusing and frusterating. I learned how cookies worked and how essential they are in making a website that flows. 
+
+
+3    Challenges and Achievements
+[A]  Detail the specific challenges you encountered during the course, such as understanding new programming concepts, completing WODs, web application development assignments.
+[B]  Explain how you overcame these challenges and the strategies that helped you succeed.
+[C]  Highlight any particular achievements or milestones in the course that were significant to you.
+
+[A]
+  Some specific challenges I had with this cousrse was yes, trying to understand concepts on the weeks module and how to properly set up  and have the code execute as intended. I also had trouble trying to balance this course with others and life's repsonibilities in general but that is not uncommon with anyone I am sure. The Wods were frusterating for sure because I had not been properly doing them correctly as my laptop was only recording one tab and  not the muliple as  I had on my end. The assignments were extremly challenging for me because I knew what I had to do but just did not know exactly how to do it if that makes sense.
+
+[b]
+  I overcame recording the Wods correctly by googling methods, one that worked is using the screenshot function to record. Its a feature that is there but not explicitly shown or known, so that worked. I'm not sure I am entirely a pro a knowing how to execute concepts but in terms of understafding them, using chatgpt and other llm's to explain or dumb it down for me was incredibly useful. In overcoming the assignments I overcame them by asking for help, having exausted myself in trying to do it on my own , the tutoring sessions, asking my classmates and getting one on one help with the proffessor was really helpful in getting it completed as best as I could with the short timeframe we had.
+
+[c] An important milestone for me was setting up my techfolio on the website of portfolios, it made me feel accomplished in having proof that I at least looked like I knew what I was doing, belinging to a cohort of like-minded individuals who were all interested in the same field of study as was all the great people before us in years prior. In all seriousness completing assignment 1 was really satisfying once I deployed it to the google cloud and had it worked. Having it be unique to my tastes made it endearing for me as a sense of pride and accomplishment.
+
+
+
+4    Skill Development and Application
+[A]  Reflect on the three skill levels outlined in the course (syntactic, algorithmic, application) and discuss your progression through these levels.
+      Syntatic skills invloved leanrning and manipulating the syntax and strutcure of a language, in this course i definetly learned how to do just that. I learned how to successfuly call things like an image or using backslashes to comment on things and always, always rembering to use a semicolon at the end as a good habit. Algorithmiclly , I learned this skill by starting a file, moving it to where i wanted it to be located in the repo, starting a file with the ending in the name such as html or something else and formatting the code to follow an sense of struture. In starting a server there had to be certain things in a certain order or they would just not function as intended. My application skill was developed when i made assignment 1, successfully deploying my website that pops up with the images I intended looking like a real website one would see browsing the internet of someones store. Within all these levels, I started off learning the whys of the concepts and why we would use them, such as style sheets , to then gradually leanring how to quickly set up an html page through repitition and real-time observation. It all came together for the last assignment.
+    
+[B]  Describe how the hands-on experience with web-based e-service applications enhanced your understanding and confidence in handling MIS issues
+
+  In my hands-on experience of using e-service applications my understading issues was imporved for sure. I learned to inspect the code of established and working examples and compare what works and what they would look like for things that I use alot , such as amazon shopping cart or ebay login page. I am more confident in ability to google, and look for the answers of specific MIS issues rather than outright knowing the solutions for said problems. When something isn't working I have gotten better at phrasing my questions rather than outright not knowing where to get started if that makes sense.
+
+
+5    Use of AI (e.g. ChatGBT)
+[A]  Discuss how use of AI enhanced your learning and productivity. Give specific examples of how you used AI effectively.
+
+    In using many LLms for this course I have done more than I thought I could have had i been without its existence. In trying to learn concpets that I just couldn't seem to grasp I asked ai to explain it to me in various ways and the why and how I would use the concepts. On the same token I would use ai to help debugg problems I had no asnwers too. Such as copy- and pasting the bad code aswell as the terminal response and then asking ai to see what was wrong with it, often returning with the exact solution I had never thought of. 
+
+[B]  Discuss how use of AI inhibited your learning or and productivity. Give specific examples of how you used AI ineffectively.
+  I wouldn't say ai ever inhibited my learning , perhaps relying too much on it but I feel  more confident having ai in my back pocket to answer and teach me things I otherwise would not have been able to in class for lack of time or other things.Times perhaps when I used ai ineffectly could be not giving it the right directions to help solve a problem , just copy and pasting code without giving it instructions beforehand on how I wanted it to solve it . Also not using copilot or paid gpt earlier.
+
+6    Future Implications and Professional Growth
+[A]  Explore how  the skills and knowledge gained from ITM 352 can be applied in your future academic and professional endeavors.
+
+   The skills I gained in ITM 352 will be applied in my future academic and proffessional journey in a number of ways I am sure, in both active and passive ways I'd imagine. For one, using ai in helping solve problems has made me optimistic in using it to leverage myself rather than asa scary industry killer, keeping me from earning a living. It helps me save so much time on various tasks and helps me become not just a better coder, but a better writer and more creative person who otherwise would not deemed it possible with the time I have in a day. I have learned to ask for help , because in doing this on my own would have been impossible. Working in a class that had a groupchat in discord helped keep me informed and more confident in the pursuit of my  studies.
+
+[B]  Discuss the potential impacts these skills will have on your career, especially in terms of understanding and addressing MIS problems.
+
+I think I've touched on this previously but the collaboration this class forced me to take part of will help me i am sure in my proffessional career where companies and applications reuqire more than one person working cohesivly and solving problems that although I may not know, someone else might, or at least chatgpt and vice versa. 
+
+
+[C]  Reflect on the overall value of the course in your educational journey and future career.
+
+  Overall, this course although really demoralizing at times, i think was essential in my development as a more expierenced and wiser MIS major who is not as afriad to learn new technologies and become better at utilizing them in my daily and proffessional life. It was nice having the class participate. Although it may or may not be too early to tell on the value of this course for the future I would have to say that it was really valuable, not easy per se but neccessary.
